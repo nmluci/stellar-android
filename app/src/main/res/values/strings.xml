@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="student_id_label">Student ID</string>
+    <string name="student_name_label" >Student Name</string>
+    <string name="student_addr_label" >Student Address</string>
+    <string name="clear">Clear</string>
+</resources>
